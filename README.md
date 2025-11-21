@@ -2,7 +2,6 @@
 
 This project implements a multi-node IoT-based smart energy monitoring system using ESP32 end nodes and a Raspberry Pi Edge device.  
 Each node measures voltage and current, publishes readings via MQTT, while the Edge device computes power and energy, detects anomalies, and updates the dashboard.  
-:contentReference[oaicite:0]{index=0}
 
 ---
 
@@ -15,7 +14,6 @@ Each node measures voltage and current, publishes readings via MQTT, while the E
 - **Automatic anomaly detection** (overvoltage / overcurrent)
 - **Automatic relay shutdown** during unsafe conditions
 - Cloud dashboard through Adafruit IO
-:contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -27,7 +25,6 @@ Each node measures voltage and current, publishes readings via MQTT, while the E
 - ZMPT101B Voltage Sensor
 - Relay module
 - Wi-Fi network
-:contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -38,7 +35,6 @@ Each node measures voltage and current, publishes readings via MQTT, while the E
 - MQTT protocol
 - Adafruit IO dashboard
 - Wi-Fi for communication
-:contentReference[oaicite:3]{index=3}
 
 ---
 
