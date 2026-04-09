@@ -13,6 +13,8 @@
   Measures voltage and current in real time, computes power and energy at the edge, detects anomalies, and visualizes data on a cloud dashboard.
 </p>
 
+---
+
 
 ## 🎯 Overview
 
